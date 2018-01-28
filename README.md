@@ -1,2 +1,4 @@
 # floodbridge-builder
-a too set to build flectra and odoo sites
+a tool set to build flectra and odoo sites
+
+
